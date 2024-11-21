@@ -21,8 +21,8 @@ Using `console.lol` is as simple as using `console.log`, but with a lot more gig
 
 ```javascript
 require('console.lol');
-console.lol('Hello, world!'); // Outputs: 😂 Hello, world! 😂
-console.lol('Debugging is fun!'); // Outputs: 🤣 Debugging is fun! 🤣
+console.lol('Hello, world!'); // Outputs: Ahahaha Hello, world! 😂
+console.lol('Debugging is fun!'); // Outputs: Hahahaha Debugging is fun! 🤣
 ```
 
 ## Why Use console.lol?
