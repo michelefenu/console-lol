@@ -1,10 +1,10 @@
 # console.lol 😂
 
-Why settle for boring logs when you can sprinkle your console with laughter and emojis? 
+Why settle for boring logs when you can sprinkle your console with laughter and emojis?
 
 ## What is console.lol?
 
-`console.lol` adds random laughs and emojis to JavaScript logs, making your debugging sessions a little less serious and a lot more entertaining. Because who said coding can't be fun? How can we have lived without this until now?
+`console.lol` adds random laughs and emojis to JavaScript logs, making your debugging sessions a little less serious and a lot more entertaining. Who said coding can't be fun? How did we ever live without this until now?
 
 ## Installation
 
@@ -18,7 +18,6 @@ npm install console.lol
 
 Using `console.lol` is as simple as using `console.log`, but with a lot more giggles. Here's how you can start spreading the joy:
 
-
 ```javascript
 require('@michelefenu/console-lol');
 
@@ -28,7 +27,7 @@ console.lol('Debugging is fun!'); // Outputs: Hahahaha Debugging is fun! 🤣
 
 ## Why Use console.lol?
 
-Why Not???
+Why not???
 
 ## License
 
