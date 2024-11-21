@@ -1,6 +1,6 @@
 {
   "name": "@michelefenu/console-lol",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A JavaScript package that enhances the console.log experience with random laughs and emojis, making debugging more fun and entertaining",
   "main": "lib/index.js",
   "scripts": {
